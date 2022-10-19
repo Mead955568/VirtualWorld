@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//write to console Statement From Luke Honey 2248102
 public class NewBehaviourScript : MonoBehaviour
 {
     // Start is called before the first frame update
